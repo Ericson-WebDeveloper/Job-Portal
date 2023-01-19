@@ -1,0 +1,39 @@
+Top Nav & SideBar make Flexible in real Front End
+https://bbbootstrap.com/snippets/tailwind-css-responsive-table-45362330
+https://tailwindui.com/components/application-ui/forms/form-layouts
+https://tailwind-elements.com/docs/standard/components/modal/
+https://www.tailwindtoolbox.com/components/fullscreen-modal
+
+* Home 
+    - Count Users
+    - Count Company
+    - Count Jobs Posted
+
+* Profile 
+    - View
+    - Edit/Update
+    - Change Password
+
+* User 
+    - List
+    - View
+    - Edit/Delete
+    - Filter
+
+* Employeer
+    - List 
+    - Activate Account by verifying Information
+    - View/Edit/Delete
+    - View Profile 
+    - View Subcription 
+    - View Company 
+    - End Subcription
+    - Filter
+
+* Company 
+    - List 
+    - View Profile 
+    - View Subcription
+    - Filter
+    - Jobs
+

@@ -1,0 +1,16 @@
+Models
+    - User
+        - Role ['user/applicant', 'admin', 'employeer']
+        - Role Package
+
+    - Details
+        - For All User
+
+    - Company Details
+        - For Employeer User
+
+    - Job Application
+        - with user id & Company id & Job id
+
+    - Job Post
+        - Company id

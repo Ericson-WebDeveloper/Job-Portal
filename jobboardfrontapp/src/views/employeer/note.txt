@@ -1,0 +1,33 @@
+Top Nav & SideBar make Flexible in real Front End
+https://bbbootstrap.com/snippets/tailwind-css-responsive-table-45362330
+https://tailwindui.com/components/application-ui/forms/form-layouts
+https://tailwind-elements.com/docs/standard/components/modal/
+https://www.tailwindtoolbox.com/components/fullscreen-modal
+
+* Home 
+    - Count of All Application new appliction send
+    - Count of All Job Post Active
+    - Count of All Job Post Not Active
+    - Status of Subcription
+
+* Profile 
+    - View
+    - Edit/Update
+    - Change Password
+
+* Company
+    - View Information
+    - Edit/Add Update Image Company
+
+* Job
+    - List
+    - Add/Edit/View
+    - Link to List of all application candidate
+    - Filter
+
+* Subcription
+    - History Payment
+    - Status
+    - Payment Method - Update/Add
+
+    - Page for Payment for Another Subcription Extensions
