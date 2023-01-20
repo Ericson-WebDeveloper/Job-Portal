@@ -25,7 +25,7 @@ export default class StripeClass {
     }
 
     async loadStripe(cardEl) {
-        this.stripe = await loadStripe('pk_test_51H0dohKWzaP0y47nQh5ROSibytHPoMgYCLtn7oUPao6uS1YESA2wawByOyVvv0idlQtWAW59Pb8NU6yk4wufxe6y00C5UzoV3b');
+        this.stripe = await loadStripe(process.env.VUE_APP_STRIPE_PUBLIC_KEY || '');
         this.createCard();
         this.mountCard(cardEl);
         this.addEventChange();
